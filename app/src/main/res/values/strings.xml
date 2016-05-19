@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">League of Lag</string>
+    <string name="action_settings">Info</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2273861139088572/3997025042</string>
+    <string name="info_title">Information</string>
+    <string name="info_text">The ping average give you a general idea as to what your ping could be. Riot servers do have an ICMP (ping) protection on, so the given values could be slightly different than what they are in game. Variance could be around 10 ms.</string>
+
+</resources>
